@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty hello -lu guillame
+chown betty -lu guillame hello
