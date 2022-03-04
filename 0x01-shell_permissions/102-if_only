@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo -lu guillame chown betty hello
+chown betty hello -lu guillame
