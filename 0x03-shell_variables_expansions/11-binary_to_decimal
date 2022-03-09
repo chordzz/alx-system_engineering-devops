@@ -1,2 +1,2 @@
 #!/bin/bash
-"obase=10;ibase=2" | bc
+"obase=10;ibase=2; " | bc
